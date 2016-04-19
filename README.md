@@ -1,5 +1,5 @@
-Visualization for Bubble sort
------------------------------
+Bubble sort
+------------
 
 HOW TO RUN
 -----------
