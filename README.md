@@ -1,4 +1,4 @@
-Bubble sort
+Quick sort
 ------------
 
 HOW TO RUN
